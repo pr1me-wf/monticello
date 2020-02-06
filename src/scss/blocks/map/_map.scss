@@ -1,0 +1,25 @@
+#map {
+    height: 700px;
+    width: 100%;
+}
+
+@media screen and (max-width: 991px) {
+    #map {
+        height: 500px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    #map {
+        height: 350px;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    #map {
+        height: 250px;
+    }
+
+}
